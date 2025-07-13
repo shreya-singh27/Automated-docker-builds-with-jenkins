@@ -30,7 +30,7 @@ jenkins-docker-project/
 
 ---
 
-## 🔧 Setup Process
+##  Setup Process
 
 ### 1.  Install Docker on EC2
 ```bash
@@ -124,7 +124,7 @@ pipeline {
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 ### Add Student Form
 ![Student Form](images/10-student-form.png)
