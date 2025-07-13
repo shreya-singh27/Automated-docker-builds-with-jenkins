@@ -152,7 +152,7 @@ pipeline {
 ---
 
 ##  GitHub Repo
-[🔗 GitHub Link](https://github.com/shreya-singh27/flask-docker-app)
+[🔗 GitHub Link](https://github.com/shreya-singh27/Docker-pipeline-automation)
 
 ---
 
