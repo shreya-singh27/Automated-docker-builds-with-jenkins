@@ -143,9 +143,6 @@ pipeline {
 ### API Student List
 ![Student List](images/12-student-list.png)
 
-### Registry output
-![Registry output](images/13-registry-output.png)
-
 ### Jenkins Dashboard
 ![Jenkins dashboard](images/14-jenkins-dashboard.png)
 
