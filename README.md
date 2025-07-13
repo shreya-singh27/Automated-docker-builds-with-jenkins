@@ -24,7 +24,7 @@ jenkins-docker-project/
 ├── Dockerfile
 ├── requirements.txt
 ├── README.md
-├── images/           # Folder for your images
+├── images/           
 │   ├── 10-student-form.png
 │   ├── 12-student-list.png
 │   └── 14-jenkins-dashboard.png
