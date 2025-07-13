@@ -26,7 +26,6 @@ jenkins-docker-project/
 ├── README.md
 ├── images/           # Folder for your images
 │   ├── 10-student-form.png
-│   ├── 11-student-added-success.png
 │   ├── 12-student-list.png
 │   └── 14-jenkins-dashboard.png
 └── templates/
@@ -135,9 +134,6 @@ pipeline {
 
 ### Add Student Form
 ![Student Form](images/10-student-form.png)
-
-### Student Added Confirmation
-![Student Added](images/11-student-added-success.png)
 
 ### API Student List
 ![Student List](images/12-student-list.png)
