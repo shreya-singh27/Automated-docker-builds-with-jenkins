@@ -23,9 +23,17 @@ jenkins-docker-project/
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
+├── README.md
+├── images/           # Folder for your images
+│   ├── 10-student-form.png
+│   ├── 11-student-added-success.png
+│   ├── 12-student-list.png
+│   ├── 13-registry-output.png
+│   └── 14-jenkins-dashboard.png
 └── templates/
     ├── index.html
     └── add.html
+
 ```
 
 ---
@@ -100,7 +108,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git branch: 'main', url: 'https://github.com/shreya-singh27/flask-docker-app.git'
+                git branch: 'main', url: 'https://github.com/shreya-singh27/Docker-pipeline-automation.git'
             }
         }
         stage('Build Docker Image') {
