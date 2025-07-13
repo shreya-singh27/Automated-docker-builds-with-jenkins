@@ -12,7 +12,7 @@ This project demonstrates how to **automate Docker image creation and deployment
 - Local Docker Registry
 - Python 3 / Flask
 - GitHub
-- EC2 (Ubuntu or RHEL)
+- EC2 (Ubuntu)
 
 ---
 
