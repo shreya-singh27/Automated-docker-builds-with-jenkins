@@ -126,8 +126,6 @@ pipeline {
 
 ## 🖼️ Screenshots
 
-> *(Place these images in an `images/` folder and refer like below in GitHub)*
-
 ### Add Student Form
 ![Student Form](images/10-student-form.png)
 
