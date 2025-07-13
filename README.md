@@ -28,7 +28,6 @@ jenkins-docker-project/
 │   ├── 10-student-form.png
 │   ├── 11-student-added-success.png
 │   ├── 12-student-list.png
-│   ├── 13-registry-output.png
 │   └── 14-jenkins-dashboard.png
 └── templates/
     ├── index.html
