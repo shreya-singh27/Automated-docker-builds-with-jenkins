@@ -1,7 +1,7 @@
 
 #  Automate Docker Image Creation and Deployment using Jenkins Pipeline
 
-## 🧾 Overview
+##  Overview
 This project demonstrates how to **automate Docker image creation and deployment** using a Jenkins pipeline, completely from **scratch**, without using pre-built images. It includes creating a local Docker registry, a Python Flask web app, Dockerizing it, and pushing the image through Jenkins CI/CD pipeline.
 
 ---
