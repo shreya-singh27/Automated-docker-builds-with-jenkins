@@ -106,7 +106,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git branch: 'main', url: 'https://github.com/shreya-singh27/Docker-pipeline-automation.git'
+                git branch: 'main', url: 'https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins.git'
             }
         }
         stage('Build Docker Image') {
