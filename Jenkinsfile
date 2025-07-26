@@ -4,14 +4,14 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                 git branch: 'main',url:'https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins.git'
+                git branch: 'main', url: 'https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins.git'
             }
         }
 
         stage('Build Docker Image') {
             steps {
                 script {
-                    dockerImage = docker.build("flask-app-image")
+                    sh 'docker build -t flask-app-image .'
                 }
             }
         }
