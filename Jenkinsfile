@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins.git'
+                 git branch: 'main',url:'https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins.git'
             }
         }
 
